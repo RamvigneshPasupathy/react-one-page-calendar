@@ -36,13 +36,13 @@ var ReactDOM = require('react-dom');
 var OnePageCalendar = require('react-one-page-calendar');
 
 var App = React.createClass({
-	render () {
-		return (
-			<div>
-				<OnePageCalendar year={2017}/>
-			</div>
-		);
-	}
+ render () {
+  return (
+	 <div>
+		<OnePageCalendar year={2017}/>
+	 </div>
+	);
+ }
 });
 
 ReactDOM.render(<App />, document.getElementById('app'));
@@ -66,5 +66,6 @@ To build, watch and serve the examples (which will also watch the component sour
 <!-- ## License
 
 __PUT LICENSE HERE__ -->
+
 
 Copyright (c) 2017 Ramvignesh Pasupathy.
