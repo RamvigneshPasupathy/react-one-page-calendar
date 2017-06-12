@@ -1,0 +1,29 @@
+{
+  "name": "react-one-page-calendar",
+  "version": "0.0.0",
+  "description": "One Page Calendar",
+  "main": "dist/react-one-page-calendar.min.js",
+  "homepage": "https://github.com/RamvigneshPasupathy/react-one-page-calendar",
+  "authors": [
+    "Ramvignesh Pasupathy"
+  ],
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "react",
+    "react-component"
+  ],
+  "license": "MIT",
+  "ignore": [
+    ".editorconfig",
+    ".gitignore",
+    "package.json",
+    "src",
+    "node_modules",
+    "example",
+    "test"
+  ]
+}
