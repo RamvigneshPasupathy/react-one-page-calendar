@@ -3,6 +3,10 @@
   "version": "0.1.2",
   "private": true,
   "main": "lib/index.js",
+  "repository" : {
+    "type": "git",
+    "url": "https://github.com/RamvigneshPasupathy/react-one-page-calendar"
+  },
   "dependencies": {
     "autoprefixer": "7.1.6",
     "babel-core": "6.26.0",
