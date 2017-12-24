@@ -1,0 +1,5 @@
+{
+ "private": true,
+ "name": "OnePageCalendar",
+ "main": "./OnePageCalendar.js"
+}

@@ -1,0 +1,48 @@
+.InvalidYear {
+  color: white;
+  margin: auto;
+  padding: 10px;
+  font-weight: bold;
+  text-align: center;
+  width: max-content;
+  font-family: monospace;
+  border: 2px solid grey;
+  background-color: silver;
+}
+
+.OnePageCalendar {
+  color: white;
+  margin: auto;
+  font-weight: bold;
+  text-align: center;
+  border: 2px solid grey;
+  font-family: monospace;
+}
+
+.OnePageCalendar.Large > thead > tr > th {
+  width: 50px;
+  height: 30px;
+  border: 1px solid silver;
+  background-color: silver;
+}
+
+.OnePageCalendar.Large > tbody > tr > td {
+  width: 50px;
+  height: 30px;
+  border: 1px solid silver;
+  background-color: silver;
+}
+
+.OnePageCalendar.Small > thead > tr > th {
+  width: 25px;
+  height: 15px;
+  border: 1px solid silver;
+  background-color: silver;
+}
+
+.OnePageCalendar.Small > tbody > tr > td {
+  width: 25px;
+  height: 15px;
+  border: 1px solid silver;
+  background-color: silver;
+}
